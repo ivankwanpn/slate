@@ -1,0 +1,7 @@
+ manager/build.gradle                               |   1 +
+ manager/src/main/AndroidManifest.xml               |  28 +-
+ .../shizuku/manager/phonefix/IShellService.aidl    |   5 +
+ .../shizuku/manager/phonefix/PhoneFixActivity.kt   | 533 +++++++++++++++++++++
+ .../moe/shizuku/manager/phonefix/ShellService.kt   |  19 +
+ manager/src/main/res/drawable/ic_slate.xml         |  12 +
+ 6 files changed, 584 insertions(+), 14 deletions(-)

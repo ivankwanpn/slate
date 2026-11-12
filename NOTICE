@@ -1,0 +1,13 @@
+This repository contains a patch for Shizuku.
+
+Shizuku
+Copyright (C) RikkaApps
+Licensed under the Apache License, Version 2.0
+https://github.com/RikkaApps/Shizuku
+
+Shizuku-API
+Licensed under the MIT License
+https://github.com/RikkaApps/Shizuku-API
+
+The patch in patches/slate-fork.patch is a derivative work of Shizuku and is
+distributed under the same Apache-2.0 terms. The rest of this repository is MIT.
